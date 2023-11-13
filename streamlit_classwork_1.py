@@ -1,10 +1,11 @@
 import streamlit as st
 import random
 import altair as alt
-import numpy as np
-import pandas as pd
+import numpy as pd
+import pandas as np
 
 st.header('Homework 1')
+
 
 st.markdown(
 "**QUESTION 1**: In previous homeworks you created dataframes from random numbers.\n"
